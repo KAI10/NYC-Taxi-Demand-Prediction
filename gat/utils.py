@@ -1,3 +1,5 @@
+# Adapted from https://github.com/Diego999/pyGAT
+
 import numpy as np
 import scipy.sparse as sp
 import torch
